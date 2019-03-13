@@ -1,0 +1,2 @@
+*{box-sizing:border-box}body{font-family:Arial,Helvetica,sans-serif}img{max-width:100%;height:auto}.wrapper{height:80vh}.box,.wrapper{display:flex;align-items:center;flex-direction:column;justify-content:center}.box{width:50vw;margin:0;padding:10px}.box:nth-child(odd){background:#ccc}h1{font-size:1.5rem}
+/*# sourceMappingURL=/style.0b326dc5.css.map */
